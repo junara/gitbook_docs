@@ -13,3 +13,10 @@ Yes, after a few months we finally found the answer. Sadly, Mike is on vacations
 | f | a |
 
 ![image](https://user-images.githubusercontent.com/17272426/105795131-a40b3900-5fcf-11eb-937c-d6455bc19cdd.png)
+
+$$
+a = b
+$$
+
+![](.gitbook/assets/sukurnshotto-2021-01-26-121133png.png)
+
